@@ -22,3 +22,19 @@ h3{
 }
 p{font-size: 20px;}
 
+a:link {
+  color: blue; 
+  border-bottom: 1px dashed; 
+}
+a:visited {
+   color:blue; 
+  border-bottom: 1px dashed; 
+}
+a:hover {
+  color: red; 
+  border-bottom: 1px dashed; 
+}
+a:active {
+   color: blue; 
+  border-bottom: 1px dashed; 
+}
