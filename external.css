@@ -1,0 +1,24 @@
+td {
+  padding: 50px;
+  padding-bottom: 200px;
+}
+th {
+  padding: 10px;
+  padding-bottom: 10px;
+   font-size: 25px;
+}
+h1{
+	
+	color:#a8001c;
+	font-size: 49px;
+}
+h4{
+	color:red;
+	font-size: 34px;
+}
+h3{
+	color:#cc3399;
+	font-size: 40px;
+}
+p{font-size: 20px;}
+
